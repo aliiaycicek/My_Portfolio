@@ -143,3 +143,4 @@
 /Users/aliaycicek/MyPortfolyo/PortfolioAPI/obj/Debug/net8.0/PortfolioAPI.pdb
 /Users/aliaycicek/MyPortfolyo/PortfolioAPI/obj/Debug/net8.0/PortfolioAPI.genruntimeconfig.cache
 /Users/aliaycicek/MyPortfolyo/PortfolioAPI/obj/Debug/net8.0/ref/PortfolioAPI.dll
+/Users/aliaycicek/MyPortfolyo/PortfolioAPI/obj/Debug/net8.0/PortfolioAPI.sourcelink.json
